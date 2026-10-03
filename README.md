@@ -1,4 +1,4 @@
-# Ridge Regression Hyperparameter Sweep
+## Ridge vs. OLS via normal equations: log-spaced λ sweep with pairwise interaction features
 
 Ridge regression hyperparameter sweep (log-spaced $\lambda$) on the scikit-learn Diabetes dataset, with optional quadratic polynomial features (pairwise products + original features), including saved MSE-vs-λ plots and a patient-style prediction example.
 
